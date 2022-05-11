@@ -1,0 +1,40 @@
+html,body{
+margin:0;
+padding:0;
+background-color:#d6e2f0;
+height:max-content;
+}
+.titleQr{
+    font-size:25px;
+    font-weight:900;
+    color: #1f3251;
+    font-family: 'Outfit', sans-serif;
+}
+.paragraphQr{
+    font-size:19px;
+    color:#888484;
+    width:90%;
+    font-family: 'Outfit', sans-serif;
+    font-weight:400;
+    margin:auto;
+}
+.textContainer{
+padding:2%;
+margin:2%;
+}
+.imageQr{
+    width:100%;
+    height:40%;
+    border-radius:25px;
+}
+
+.container{
+    text-align:center;
+    padding:1%;
+    background-color:#ffffff;
+    width:20%;
+    height:10%;
+    margin:10% auto;
+    border-radius:15px;
+    box-shadow:7px 7px 7px hsL(212deg,33%,84%);
+}

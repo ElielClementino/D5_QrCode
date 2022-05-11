@@ -4,6 +4,13 @@ padding:0;
 background-color:#d6e2f0;
 height:max-content;
 }
+a{
+    text-decoration:none;
+}
+a:hover{
+ color:#00f; 
+ text-transform:uppercase;
+}
 .titleQr{
     font-size:25px;
     font-weight:900;
@@ -37,4 +44,7 @@ margin:2%;
     margin:10% auto;
     border-radius:15px;
     box-shadow:7px 7px 7px hsL(212deg,33%,84%);
+}
+.footer{
+   text-align:center;
 }
